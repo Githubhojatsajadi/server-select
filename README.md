@@ -1,2 +1,2 @@
-# server-select
-python socket server using select
+# Python Socket Server Using Select
+A simple socket server using select in python3
